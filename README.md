@@ -1,9 +1,7 @@
 # TouchMIDI
 
-## Author
+## QUICK INSTALL
+Download the [Binary file](https://github.com/Synthux-Academy/TouchMIDI/raw/main/TouchMIDI.bin) and flash using the [Daisy Seed web programmer](https://electro-smith.github.io/Programmer/)
 
-<!-- Insert Your Name Here -->
-
-## Description
-
-<!-- Describe your example here -->
+## CONTROLS
+See [config.h](https://github.com/Synthux-Academy/TouchMIDI/blob/main/config.h)
