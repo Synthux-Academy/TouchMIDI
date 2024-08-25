@@ -3,4 +3,4 @@
 	url = https://github.com/electro-smith/DaisySP.git
 [submodule "lib/libDaisy"]
 	path = lib/libDaisy
-	url = https://github.com/electro-smith/libDaisy.git
+url=https://github.com/Synthux-Academy/libDaisy.git
